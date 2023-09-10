@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/633274709717143774/1f65c31a7e5c419487f43ffe5c22ec50/artifacts
+deleted_time: 1694344569621
+end_time: 1694339556150
+entry_point_name: ''
+experiment_id: '633274709717143774'
+lifecycle_stage: deleted
+run_id: 1f65c31a7e5c419487f43ffe5c22ec50
+run_name: method-batch-lr-0.1-reg-ElasticNet
+run_uuid: 1f65c31a7e5c419487f43ffe5c22ec50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694339084612
+status: 3
+tags: []
+user_id: reza370

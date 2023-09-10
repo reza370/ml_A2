@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/204682965114161077/b1ceb602115840978b7b7cf33667e3ec/artifacts
+deleted_time: 1694345918829
+end_time: null
+entry_point_name: ''
+experiment_id: '204682965114161077'
+lifecycle_stage: deleted
+run_id: b1ceb602115840978b7b7cf33667e3ec
+run_name: method-mini-lr-0.1-reg-Ridge
+run_uuid: b1ceb602115840978b7b7cf33667e3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345495370
+status: 1
+tags: []
+user_id: reza370

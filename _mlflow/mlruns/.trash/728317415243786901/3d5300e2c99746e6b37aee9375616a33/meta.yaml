@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/728317415243786901/3d5300e2c99746e6b37aee9375616a33/artifacts
+deleted_time: 1694344565387
+end_time: null
+entry_point_name: ''
+experiment_id: '728317415243786901'
+lifecycle_stage: deleted
+run_id: 3d5300e2c99746e6b37aee9375616a33
+run_name: method-mini-lr-0.1-reg-Lasso
+run_uuid: 3d5300e2c99746e6b37aee9375616a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694344446075
+status: 1
+tags: []
+user_id: reza370
