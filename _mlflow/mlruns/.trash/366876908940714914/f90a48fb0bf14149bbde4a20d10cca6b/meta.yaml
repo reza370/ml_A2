@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/366876908940714914/f90a48fb0bf14149bbde4a20d10cca6b/artifacts
+deleted_time: 1694450995613
+end_time: null
+entry_point_name: ''
+experiment_id: '366876908940714914'
+lifecycle_stage: deleted
+run_id: f90a48fb0bf14149bbde4a20d10cca6b
+run_name: method-batch-lr-0.1-reg-Ridge-weight_init-zeros
+run_uuid: f90a48fb0bf14149bbde4a20d10cca6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694450933022
+status: 1
+tags: []
+user_id: reza370

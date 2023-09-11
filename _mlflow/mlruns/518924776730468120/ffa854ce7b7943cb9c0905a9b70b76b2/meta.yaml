@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/518924776730468120/ffa854ce7b7943cb9c0905a9b70b76b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '518924776730468120'
+lifecycle_stage: active
+run_id: ffa854ce7b7943cb9c0905a9b70b76b2
+run_name: method-batch-lr-0.1-reg-Ridge-initial-Xavier
+run_uuid: ffa854ce7b7943cb9c0905a9b70b76b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694445387734
+status: 1
+tags: []
+user_id: reza370
