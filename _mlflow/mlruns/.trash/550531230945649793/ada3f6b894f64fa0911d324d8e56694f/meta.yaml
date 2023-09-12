@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/550531230945649793/ada3f6b894f64fa0911d324d8e56694f/artifacts
+deleted_time: 1694517868682
+end_time: 1694516772343
+entry_point_name: ''
+experiment_id: '550531230945649793'
+lifecycle_stage: deleted
+run_id: ada3f6b894f64fa0911d324d8e56694f
+run_name: method-batch-lr-0.1-reg-Lasso-weight_init-zeros
+run_uuid: ada3f6b894f64fa0911d324d8e56694f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694516581228
+status: 3
+tags: []
+user_id: reza370

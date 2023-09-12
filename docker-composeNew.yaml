@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  dash-demo:
+    command: python3 main.py
+    image: akraradets/dash-demo:a2
+    build:
+       context: .
+       dockerfile: new.dockerfile
+    ports:
+      - 8081:80
+    environment:
+      - HOST=0.0.0.0
+      - PORT=80
