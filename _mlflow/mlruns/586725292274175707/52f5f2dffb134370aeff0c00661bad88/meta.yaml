@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586725292274175707/52f5f2dffb134370aeff0c00661bad88/artifacts
+end_time: 1694620844536
+entry_point_name: ''
+experiment_id: '586725292274175707'
+lifecycle_stage: active
+run_id: 52f5f2dffb134370aeff0c00661bad88
+run_name: method-batch-lr-0.1-reg-ElasticNet-weight_init-zeros
+run_uuid: 52f5f2dffb134370aeff0c00661bad88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694620568143
+status: 3
+tags: []
+user_id: reza370

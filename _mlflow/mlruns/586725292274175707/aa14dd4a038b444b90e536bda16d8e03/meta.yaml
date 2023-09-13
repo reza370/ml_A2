@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586725292274175707/aa14dd4a038b444b90e536bda16d8e03/artifacts
+end_time: 1694620011243
+entry_point_name: ''
+experiment_id: '586725292274175707'
+lifecycle_stage: active
+run_id: aa14dd4a038b444b90e536bda16d8e03
+run_name: method-batch-lr-0.1-reg-Normal-weight_init-zeros
+run_uuid: aa14dd4a038b444b90e536bda16d8e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694619725613
+status: 3
+tags: []
+user_id: reza370

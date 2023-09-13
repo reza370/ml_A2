@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1694629433719
+current_stage: None
+description: ''
+last_updated_timestamp: 1694629433719
+name: reza
+run_id: 0642c698d9cd44b89c3077e782624cad
+run_link: ''
+source: mlflow-artifacts:/574122715825342513/0642c698d9cd44b89c3077e782624cad/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2
