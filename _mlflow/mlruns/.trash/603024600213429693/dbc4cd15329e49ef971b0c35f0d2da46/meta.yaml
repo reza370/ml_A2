@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/603024600213429693/dbc4cd15329e49ef971b0c35f0d2da46/artifacts
+deleted_time: 1694665313189
+end_time: 1694447173937
+entry_point_name: ''
+experiment_id: '603024600213429693'
+lifecycle_stage: deleted
+run_id: dbc4cd15329e49ef971b0c35f0d2da46
+run_name: method-batch-lr-0.1-reg-Lasso-initial-Xavier
+run_uuid: dbc4cd15329e49ef971b0c35f0d2da46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694447006402
+status: 3
+tags: []
+user_id: reza370
