@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/162004029079828891/d6cd53b18d1c4c2f8beffb9cf62e8a5c/artifacts
+end_time: 1694705047903
+entry_point_name: ''
+experiment_id: '162004029079828891'
+lifecycle_stage: active
+run_id: d6cd53b18d1c4c2f8beffb9cf62e8a5c
+run_name: method-batch-lr-0.001-reg-Ridge-weight_init-Xavier-momentum0
+run_uuid: d6cd53b18d1c4c2f8beffb9cf62e8a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694704654198
+status: 3
+tags: []
+user_id: reza370

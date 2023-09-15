@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/339902140971592866/cc2f71f725d2404199653fc1a6b23a0f/artifacts
+end_time: 1694719716842
+entry_point_name: ''
+experiment_id: '339902140971592866'
+lifecycle_stage: active
+run_id: cc2f71f725d2404199653fc1a6b23a0f
+run_name: method-mini-lr-0.01-reg-Lasso-weight_init-0-momentum0
+run_uuid: cc2f71f725d2404199653fc1a6b23a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694719111927
+status: 3
+tags: []
+user_id: reza370

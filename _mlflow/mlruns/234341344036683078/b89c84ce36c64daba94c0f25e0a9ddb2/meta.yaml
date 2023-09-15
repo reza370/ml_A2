@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/234341344036683078/b89c84ce36c64daba94c0f25e0a9ddb2/artifacts
+end_time: 1694698534541
+entry_point_name: ''
+experiment_id: '234341344036683078'
+lifecycle_stage: active
+run_id: b89c84ce36c64daba94c0f25e0a9ddb2
+run_name: Fold-0
+run_uuid: b89c84ce36c64daba94c0f25e0a9ddb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698340502
+status: 3
+tags: []
+user_id: reza370

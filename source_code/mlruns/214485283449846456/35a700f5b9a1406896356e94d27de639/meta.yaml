@@ -1,0 +1,15 @@
+artifact_uri: file:///root/code/mlruns/214485283449846456/35a700f5b9a1406896356e94d27de639/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '214485283449846456'
+lifecycle_stage: active
+run_id: 35a700f5b9a1406896356e94d27de639
+run_name: method-mini-lr-0.1-reg-Ridge
+run_uuid: 35a700f5b9a1406896356e94d27de639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694713200773
+status: 1
+tags: []
+user_id: reza370

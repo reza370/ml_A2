@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/234341344036683078
+creation_time: 1694697241786
+experiment_id: '234341344036683078'
+last_update_time: 1694697241786
+lifecycle_stage: active
+name: batch M0.9 W0 lr 0.01

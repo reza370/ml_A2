@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/854177550873743843/a9d643b831df4769984bb3ff0dba931c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '854177550873743843'
+lifecycle_stage: active
+run_id: a9d643b831df4769984bb3ff0dba931c
+run_name: method-mini-lr-0.01-reg-polynomial-weight_init-xavier-momentum0
+run_uuid: a9d643b831df4769984bb3ff0dba931c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694713513899
+status: 1
+tags: []
+user_id: reza370

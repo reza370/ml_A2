@@ -1,0 +1,15 @@
+artifact_uri: file:///root/code/mlruns/796005890243779328/08adf409cb7f45139d77b4314b0c9d97/artifacts
+end_time: 1694713166905
+entry_point_name: ''
+experiment_id: '796005890243779328'
+lifecycle_stage: active
+run_id: 08adf409cb7f45139d77b4314b0c9d97
+run_name: Fold-0
+run_uuid: 08adf409cb7f45139d77b4314b0c9d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694713125286
+status: 4
+tags: []
+user_id: reza370

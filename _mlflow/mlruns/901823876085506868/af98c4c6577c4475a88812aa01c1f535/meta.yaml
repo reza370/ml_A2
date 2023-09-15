@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/901823876085506868/af98c4c6577c4475a88812aa01c1f535/artifacts
+end_time: 1694708593376
+entry_point_name: ''
+experiment_id: '901823876085506868'
+lifecycle_stage: active
+run_id: af98c4c6577c4475a88812aa01c1f535
+run_name: method-batch-lr-0.01-reg-Lasso-weight_init-Xavier-momentum0.9
+run_uuid: af98c4c6577c4475a88812aa01c1f535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694708153185
+status: 3
+tags: []
+user_id: reza370

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/896227608905793400/15c0a81174c24582af12df49fa9f3000/artifacts
+end_time: 1694716101394
+entry_point_name: ''
+experiment_id: '896227608905793400'
+lifecycle_stage: active
+run_id: 15c0a81174c24582af12df49fa9f3000
+run_name: method-mini-lr-0.01-reg-Normal-weight_init-Xavier-momentum0.9
+run_uuid: 15c0a81174c24582af12df49fa9f3000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694715645555
+status: 3
+tags: []
+user_id: reza370

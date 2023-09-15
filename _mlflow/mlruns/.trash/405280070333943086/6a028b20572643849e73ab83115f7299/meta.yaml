@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/405280070333943086/6a028b20572643849e73ab83115f7299/artifacts
+deleted_time: 1694713054035
+end_time: 1694713022642
+entry_point_name: ''
+experiment_id: '405280070333943086'
+lifecycle_stage: deleted
+run_id: 6a028b20572643849e73ab83115f7299
+run_name: Fold-0
+run_uuid: 6a028b20572643849e73ab83115f7299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694713016273
+status: 4
+tags: []
+user_id: reza370

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/838840559941707795/64df487da9504c8389407bf52beb12f0/artifacts
+deleted_time: 1694695450480
+end_time: 1694679282881
+entry_point_name: ''
+experiment_id: '838840559941707795'
+lifecycle_stage: deleted
+run_id: 64df487da9504c8389407bf52beb12f0
+run_name: method-batch-lr-0.1-reg-Normal-weight_init-zeros-momentumNo
+run_uuid: 64df487da9504c8389407bf52beb12f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694678904734
+status: 3
+tags: []
+user_id: reza370

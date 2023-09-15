@@ -1,0 +1,15 @@
+artifact_uri: file:///root/code/mlruns/796005890243779328/05c62027637c4deebfafa373516b4208/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '796005890243779328'
+lifecycle_stage: active
+run_id: 05c62027637c4deebfafa373516b4208
+run_name: method-sto-lr-0.1-reg-Ridge
+run_uuid: 05c62027637c4deebfafa373516b4208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694713122546
+status: 1
+tags: []
+user_id: reza370
